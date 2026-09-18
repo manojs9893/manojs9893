@@ -11,7 +11,6 @@ Senior Software Engineer | Backend Developer | GenAI & Agentic AI Developer
   <a href="https://github.com/manojs9893?tab=followers">
     <img src="https://img.shields.io/github/followers/manojs9893?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
-  <img src="https://img.shields.io/github/stars/manojs9893?label=Stars&style=flat" alt="GitHub Stars"/>
 </p>
 
 <p align="center">
@@ -311,33 +310,25 @@ AI Engineering Assistant
 
 ---
 
-# 🧠 What I'm Learning
+# 💼 What I'm Working On
+
+Currently working on **AI-powered backend systems and Agentic AI applications**, combining backend engineering with modern LLM and AI-agent architectures.
 
 ```text
-Generative AI
-    ↓
-LLMs
-    ↓
-Prompt Engineering
-    ↓
-Structured Outputs
-    ↓
-Embeddings
-    ↓
-Vector Databases
-    ↓
-RAG
-    ↓
+Backend Engineering
+        ↓
+LLM Applications
+        ↓
+RAG & Semantic Search
+        ↓
 Tool Calling
-    ↓
+        ↓
 AI Agents
-    ↓
-ReAct
-    ↓
+        ↓
+ReAct Workflows
+        ↓
 Multi-Agent Systems
-    ↓
-MCP
-    ↓
+        ↓
 Agentic AI
 ```
 
@@ -345,31 +336,10 @@ My current goal is to become a strong **AI-Native Backend / Agentic AI Engineer*
 
 ---
 
-# 📊 GitHub Statistics
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojs9893&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojs9893&layout=compact&hide_border=true" height="180" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojs9893&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manojs9893&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojs9893&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://streak-stats.demolab.com/?user=manojs9893&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -379,7 +349,7 @@ My current goal is to become a strong **AI-Native Backend / Agentic AI Engineer*
 | Area        | Technologies                             |
 | ----------- | ---------------------------------------- |
 | Backend     | Node.js, Express.js, TypeScript, FastAPI |
-| Programming | JavaScript, TypeScript, Python      |
+| Programming | JavaScript, TypeScript, Python           |
 | Databases   | PostgreSQL, MySQL, Redis                 |
 | GenAI       | LLMs, Prompt Engineering, Embeddings     |
 | RAG         | Semantic Search, Vector Search, pgvector |
